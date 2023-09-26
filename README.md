@@ -32,12 +32,12 @@ To request features or games, simply just join my discord server, verify and the
 
 ## Current Games
 
-- hangman
-- hangman multiplayer
-- trivia
-- memes
-- num guess
-- soon to be survival(a very complex game that is taking wayyy too long)
+- hangman - a simple hangman game
+- hangman multiplayer - a more complex hangman game which allows you to join other games
+- trivia - a simple trivia game that will get more questions every so often(currently none because of a problem)
+- memes - sends a random meme
+- num guess - guess a number from 1 to 25 and see if you are right
+- soon to be survival(a very complex game that is taking wayyy too long) - a survival game with items, weapons, armor, monsters, bosses and more!
 
 ## License
 there is none :)
