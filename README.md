@@ -1,9 +1,9 @@
 # Welcome!
 
-Welcome to The Feesh Bot!
+Welcome to The Feesh Bot! below is basically all you would need to know to get started with The Feesh Bot!
 
 ## About
-This bot is a bot with games which some are wip, but I will add new games every week or so depending on their quality
+This bot is a bot with games which some are wip, but I will add new games every week or so depending on their quality/difficulty
 
 
 ## Features
