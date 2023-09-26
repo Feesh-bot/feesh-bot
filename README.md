@@ -12,6 +12,8 @@ This bot is a bot with games which some are wip, but I will add new games every 
 - **Weekly Updates**: I'm committed to enhancing your experience, so expect new games and features every week (or so), depending on their quality and user feedback.
 - **Report Issues**: If you encounter any issues or have suggestions for improvement, feel free to create an issue on the GitHub repository. I'll be actively monitoring and addressing them as quickly as possible.
 
+-  ** Request features/games**: If you would like to see certain minigames added, you can go to my discord server and create a post that requests a minigame, but keep in mind that I might not add your game due to other things I need to add or because it would be too hard to create or because I just dont think it's a good idea
+
 ## How to Use
 
 1. Invite My Awesome Bot to your server.
