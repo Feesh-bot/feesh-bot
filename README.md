@@ -20,7 +20,7 @@ This bot is a bot with games which some are wip, but I will add new games every 
 
 1. Invite Feesh Bot to your server by clicking [this](https://discord.com/api/oauth2/authorize?client_id=1155958520542400532&permissions=31881344580689&scope=bot), or by clicking the invite button in its profile.
 2. Type the `uhelp` command to get a list of available commands and games.(prefix is U so type `uhelp`)
-3. Enjoy the games and features while interacting with the bot!
+3. Enjoy the games and features added and share this bot to others!
 
 ## Reporting Issues
 
