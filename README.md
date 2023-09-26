@@ -18,7 +18,7 @@ This bot is a bot with games which some are wip, but I will add new games every 
 
 ## How to Use
 
-1. Invite My Awesome Bot to your server by clicking [this](no link here yet :/, so the only way to invite the bot is by inviting from top.gg or joining my server and inviting via its invite button in its profile)
+1. Invite Feesh Bot to your server by clicking [this](no link here yet :/, so the only way to invite the bot is by inviting from top.gg or joining my server and inviting via its invite button in its profile)
 2. Type the `uhelp` command to get a list of available commands and games.(prefix is U so type `uhelp`)
 3. Enjoy the games and features while interacting with the bot!
 
