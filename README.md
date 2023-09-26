@@ -38,6 +38,7 @@ To request features or games, simply just join my discord server, verify and the
 - memes - sends a random meme
 - num guess - guess a number from 1 to 25 and see if you are right
 - soon to be survival(a very complex game that is taking wayyy too long) - a survival game with items, weapons, armor, monsters, bosses and more!
+- and many many more to come
 
 ## License
 there is none :)
