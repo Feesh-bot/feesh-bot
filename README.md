@@ -25,4 +25,4 @@ To report issues or suggest improvements, please [create an issue](https://githu
 ## License
 there is none :)
 
-Thank you and please be sure to join the server(link which hasnt been made :/)! 🎮
+Thank you and please be sure to [join](https://discord.gg/AW33Js7gqb) the server! 🎮
