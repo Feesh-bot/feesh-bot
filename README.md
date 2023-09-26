@@ -30,4 +30,4 @@ To request features or games, simply just join my discord server, verify and the
 ## License
 there is none :)
 
-Thank you and please be sure to [join](https://discord.gg/xyBBfQWaS5) the server! 🎮
+Thank you for getting this far and be sure to [join](https://discord.gg/xyBBfQWaS5) the server if you haven't already! 🎮
