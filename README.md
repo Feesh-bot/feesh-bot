@@ -15,13 +15,18 @@ This bot is a bot with games which some are wip, but I will add new games every 
 
 ## How to Use
 
-1. Invite My Awesome Bot to your server.
-2. Type `uhelp` to get a list of available commands and games.(prefix is U)
-3. Enjoy the games, features, and interact with the bot!
+1. Invite My Awesome Bot to your server by clicking [this](no link here yet :/)
+2. Type the `uhelp` command to get a list of available commands and games.(prefix is U so type `uhelp`)
+3. Enjoy the games and features while interacting with the bot!
 
 ## Reporting Issues
 
 To report issues or suggest improvements, please [create an issue](https://github.com/Feesh-bot/feesh-bot/issues) on this GitHub repository. Your feedback is essential in making My bot grow(it might be a total blow :/ haha that rymed :))!
+
+## Requesting Features/Games
+
+To request features or games, simply just join my discord server, verify and then go down to the request feature/games forums(you may need to follow the channel, which I specified in the announcments) and create a post! Please make sure to look at the rules first though
+
 ## License
 there is none :)
 
