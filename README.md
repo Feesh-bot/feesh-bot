@@ -20,8 +20,7 @@ This bot is a bot with games which some are wip, but I will add new games every 
 
 ## Reporting Issues
 
-To report issues or suggest improvements, please [create an issue](https://github.com/Feesh-bot/feesh-bot/issues) on this GitHub repository. Your feedback is essential in making My bot grow(it might be a total blow :/)!
-
+To report issues or suggest improvements, please [create an issue](https://github.com/Feesh-bot/feesh-bot/issues) on this GitHub repository. Your feedback is essential in making My bot grow(it might be a total blow :/ haha that rymed :))!
 ## License
 there is none :)
 
