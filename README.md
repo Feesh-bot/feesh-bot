@@ -30,6 +30,15 @@ To report issues or suggest improvements, please [create an issue](https://githu
 
 To request features or games, simply just join my discord server, verify and then go down to the request feature/games forums(you may need to follow the channel, which I specified in the announcments) and create a post! Please make sure to look at the rules first though
 
+## Current Games
+
+- hangman
+- hangman multiplayer
+- trivia
+- memes
+- num guess
+- soon to be survival(a very complex game that is taking wayyy too long)
+
 ## License
 there is none :)
 
