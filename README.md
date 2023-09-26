@@ -1,7 +1,8 @@
 # Welcome!
 
 Welcome to The Feesh Bot! below is basically all you would need to know to get started with The Feesh Bot!
-[IMG_3739](https://github.com/Feesh-bot/feesh-bot/assets/146041237/98335587-5ff6-4fc8-aa3d-771f1326aefc)
+
+![image](https://github.com/Feesh-bot/feesh-bot/assets/146041237/2dfd9d31-0225-4bad-a7dd-1bd7bc2a0e5a)
 
 ## About!
 
