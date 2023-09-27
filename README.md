@@ -8,7 +8,7 @@ Welcome to The Feesh Bot! below is basically all you would need to know to get s
 
 This bot is a bot with games which some are wip, but I will add new games every week or so depending on their quality/difficulty
 
-
+---
 ## Features
 
 - **Game Collection**: Explore a collection of fun and exciting games, including classics and innovative new ones.
