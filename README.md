@@ -38,7 +38,7 @@ To request features or games, simply just join my discord server, verify and the
 - memes - sends a random meme
 - num guess - guess a number from 1 to 25 and see if you are right(does create a lot of spam, so I am gonna try to find a way to make it more fun without spam)
 - soon to be survival(a very complex game that is taking wayyy too long) - a survival game with items, weapons, armor, monsters, bosses and more!
-- lottery(depends what you want to use for, im thinking about making it customizable)
+- lottery(depends what you want to use for, im thinking about making it customizable via dashboard or commands(dashboard stuff is pretty hard to do im pretty sure)
 - and many many more to come
 
 ## License
