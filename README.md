@@ -28,7 +28,7 @@ To report issues or suggest improvements, please [create an issue](https://githu
 
 ## Requesting Features/Games
 
-To request features or games, simply just join my discord server, verify and then go down to the request feature/games forums(you may need to follow the channel, which I specified in the announcments) and create a post! Please make sure to look at the rules first though <abbr title="hey there!">:)</abbr>
+To request features or games, simply just join my discord server, verify and then go down to the request feature/games forums(you may need to follow the channel, which I specified in the announcments) and create a post! Please make sure to look at the rules first though 
 
 ## Current Games
 
