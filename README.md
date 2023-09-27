@@ -47,25 +47,25 @@ To request features or games, simply just join my discord server, verify and the
 
 ---
 ## Current Commands
-<argument> means not needed <<argument>> means needed, <psg2> is an abr for a game(you probably wont use it) and <abr=something> means there is an aliases
+<<argument>> means not needed <<<argument>>> means needed, <<psg2>> is an abr for a game(you probably wont use it) and <<abr=something>> means there is an aliases
 - uabout - shows the about message(this)
 - uhelp - shows you all the commands
-- uhangman <is multi?> - starts a hangman game(2 gamemodes)<abr=uhman>
+- uhangman <<is multi?>> - starts a hangman game(2 gamemodes)<<abr=uhman>>
 - ucgs - clears all game sessions(most)
 - uticket - buys a ticket(lottery command so it may be changed later)
 - uend_lottery - mod only - ends lottery and picks a winner
-- unumguess <<num>> - a number guessing game<abr=ung>
+- unumguess <<num>> - a number guessing game<<abr=ung>>
 - usurvival - not fully implemented so it will soon be "play"
-- ugamehelp <<game>> - shows the information on that game(not really ready)
+- ugamehelp <<<game>>> - shows the information on that game(not really ready)
 - ugames - shows all available games
-- uuid <<uid>> - <psg2> - sets your uid
-- ugetuid <@user> - <psg2> - gets the uid of that person
-- ulist - <psg2> - shows a list of all uid's saved
+- uuid <<<uid>>> - <<psg2>> - sets your uid
+- ugetuid <<@user>> - <<psg2>> - gets the uid of that person
+- ulist - <<psg2>> - shows a list of all uid's saved
 - uomg - just dont use it(its a joke cmd)
 - uguildimg - sends the guilds/servers image
-- uprofilepic <<@user>> - <abr=pfp>- sends the profile picture of that user
+- uprofilepic <<<@user>>> - sends the profile picture of that user<<abr=pfp>>
 - uguildlist - sends the list of all people in server(why did I put this in here)
-- upurge <<amount or all>> - mod only - purges a set amount of messages<abr=prg>
+- upurge <<<amount or "all">>> - mod only - purges a set amount of messages<<abr=prg>>
 - uclear_dms clears all dm messages it has sent you(use it when it doesnt delete the dm message)
 - utrivia - starts a trivia game!
 - umeme - sends a random meme
