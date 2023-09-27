@@ -34,7 +34,7 @@ To request features or games, simply just join my discord server, verify and the
 
 - hangman - a simple hangman game
 - hangman multiplayer - a more complex hangman game which allows you to join other games
-- trivia - a simple trivia game that will get more questions every so often(currently none because of a problem)
+- trivia - a simple trivia game that will get more questions every so often, and has a gloabal, serverside and total leaderboard(currently no leader boards)
 - memes - sends a random meme
 - num guess - guess a number from 1 to 25 and see if you are right(does create a lot of spam, so I am gonna try to find a way to make it more fun without spam)
 - soon to be survival(a very complex game that is taking wayyy too long) - a survival game with items, weapons, armor, monsters, bosses and more!
