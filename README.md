@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to The Feesh Bot! below is basically all you would need to know to get started with The Feesh Bot(the best bot ;) server and github links are at the bottom)!
+Welcome to The Feesh Bot! below is basically all you would need to know to get started with The Feesh Bot(the best bot ;) server link is at the bottom!
 
 ![image](https://github.com/Feesh-bot/feesh-bot/assets/146041237/2dfd9d31-0225-4bad-a7dd-1bd7bc2a0e5a)
 
@@ -73,6 +73,6 @@ argument means not needed needed=argument means needed, psg2 is an abr for a gam
 ## License
 there is none :)
 
-Thank you for getting this far and be sure to [join](https://discord.gg/xyBBfQWaS5) the server if you haven't already or visit my github to report issues [here](https://github.com/Feesh-bot/feesh-bot)! 🎮
+Thank you for getting this far and be sure to [join](https://discord.gg/xyBBfQWaS5) the server if you haven't already! 🎮
 
 ---
