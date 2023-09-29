@@ -69,6 +69,8 @@ argument means not needed needed=argument means needed, psg2 is an abr for a gam
 - uclear_dms clears all dm messages it has sent you(use it when it doesnt delete the dm message)
 - utrivia - starts a trivia game!
 - umeme - sends a random meme
+- /poll - mod only - creates a custom poll!
+- /coin-flip - flips a coin!
 ---
 ## License
 there is none :)
